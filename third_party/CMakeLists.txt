@@ -1,0 +1,3 @@
+set(BOTCRAFT_BUILD_EXAMPLES OFF)
+set(BOTCRAFT_BUILD_DOC OFF)
+add_subdirectory(Botcraft)
